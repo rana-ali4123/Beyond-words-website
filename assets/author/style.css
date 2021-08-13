@@ -1,0 +1,78 @@
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font: 85%/160% arial, verdana, helvetica, sans-serif;
+	background: #fff url(images/bg.gif) repeat-y center;
+	color: #333;
+}
+
+body {
+	font-family: 'Dancing Script', cursive;
+	font-size: 1.4rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	letter-spacing: 1px;
+}
+
+.main {
+	background-color: #006699;
+	color: #fff;
+	text-align: center;
+	line-height: 1.4em;
+	margin-top: 0;
+	font-size: 1.8em;
+}
+
+.main2 {
+	background-color: #3d83a7;
+	color: #fff;
+	text-align: center;
+	line-height: 1.4em;
+	font-size: 1.5em;
+	width: 80%;
+}
+
+h3 {
+	font-size: 1.4em;
+	color: #006699;
+}
+
+h4,
+h5,
+h6 {
+	font-size: 1em;
+	margin: 0;
+}
+
+.authorCard {
+	width: 14rem;
+}
+
+.imageEdit {
+	height: 14rem;
+	border-radius: 50%;
+	/* background-color: gray; */
+	position: relative;
+	overflow: hidden;
+	border: 3px solid black;
+}
+
+.authorImage {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+	right: -9999px;
+	bottom: -9999px;
+	margin: auto;
+	/* height: 30vh; */
+	/* height: 9.3rem; */
+}
+
+.authorBooks {
+	margin-top: 20%;
+}

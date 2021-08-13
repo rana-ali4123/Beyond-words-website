@@ -1,0 +1,27 @@
+html,
+body {
+	background-image: url("https://puu.sh/HAeoC/e572dbf561");
+
+	background-repeat: repeat-x;
+	background-size: 50%;
+	color: #013a63;
+}
+
+button:hover {
+	background: #022c3a !important;
+	border: #022c3a !important;
+}
+form input {
+	border-radius: 500px !important;
+}
+form {
+	/*new*/
+	background: white;
+	margin: 30px;
+	border: 1px solid black;
+	outline: 1px solid black;
+	outline-offset: 15px;
+}
+a {
+	color: #013a63;
+}
